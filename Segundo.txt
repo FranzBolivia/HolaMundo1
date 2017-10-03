@@ -2,4 +2,5 @@ Es el archivo subido por el CLONE
 Hago mi modificacion sobre el archivo 
 y cambio una linea en conflicto
 
+El CLone adiciona la siguinte linea
 Algo aparecio con Patrissia
